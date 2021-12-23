@@ -48,7 +48,7 @@ Magento 2 Product Widget extension allows you to customize the options you’d l
 
 Refer to [this video](https://www.youtube.com/watch?v=J4ACNZkkvqA) for more details on how to embed product block into the WYSIWYG editor and how it looks like on the storefront.
 
-## Other [Magento 2 Extensions](https://magefan.com/magento2-extensions) by Magefan
+## Other [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
   * [Magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)
   * [Magento 2 Blog Plus Extension](https://magefan.com/magento2-blog-extension/pricing)
   * [Magento 2 Blog Extra Extension](https://magefan.com/magento2-blog-extension/pricing)
