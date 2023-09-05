@@ -9,7 +9,7 @@
 Adding product blocks to your website content allows you to promote or just drive attention to some particular products. [Magento 2 Product Widget](https://magefan.com/magento-2-product-widget) is the extension that allows you to easily insert product blocks with all product details into the WYSIWYG editor.
 
 
-<a href="https://magefan.com/magento-2-product-widget"><img width="190" height="70" src="https://magefan.com/media/wysiwyg/download-now_1.png"></a>
+<a href="https://magefan.com/magento-2-product-widget"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-product-widget#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
 ## Benefits
 
