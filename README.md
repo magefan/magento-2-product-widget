@@ -1,4 +1,4 @@
-# Magento 2 Product Widget Extension
+# [Magento 2 Product Widget](https://magefan.com/magento-2-product-widget) by Magefan
 
 <a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
 
@@ -6,10 +6,12 @@
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-product-widget_1.webp">
 
-Adding product blocks to your website content allows you to promote or just drive attention to some particular products. [Magento 2 Product Widget](https://magefan.com/magento-2-product-widget) is the extension that allows you to easily insert product blocks with all product details into the WYSIWYG editor.
-
+[Magento 2 Product Widget](https://magefan.com/magento-2-product-widget) is the extension that allows you to easily insert product blocks with all product details into the WYSIWYG editor. Adding product blocks to your website content allows you to promote or just drive attention to some particular products. 
 
 <a href="https://magefan.com/magento-2-product-widget"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-product-widget#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
+
+## Requirements
+  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
 
 ## Benefits
 
@@ -22,7 +24,7 @@ Adding product blocks to your website content allows you to promote or just driv
 Adding product blocks to CMS pages or blocks, blog posts, or any other content created with the help of WYSIWYG editor hasn’t been easier with Magento 2 Product Widget extension.
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/catalog/product/p/r/product-widget-advanced-1-min.jpg">
+  <img  src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-product-widget.webp">
 </p>
 
 ### Flexible Widget Options
@@ -36,7 +38,7 @@ Magento 2 Product Widget extension allows you to customize the options you’d l
 * "Read More" Link
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/catalog/product/p/r/product-widget-advanced-5-min.jpg">
+  <img src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-product-widget-options.webp">
 </p>
 
 ## Documentation
@@ -100,6 +102,11 @@ Try out our open demo and if you like our extension **please give us some star o
     </tr>
   </tbody>
 </table>
+
+## Support
+If you have any issues, please [contact us](mailto:support@magefan.com)
+then if you still need help, open a bug report in GitHub's
+[issue tracker](https://github.com/magefan/magento-2-product-widget/issues).
 
 ## Need More Features?
 Please contact us to get a quote
